@@ -140,11 +140,4 @@ water = Ingredient("Вода", 5000, 0.1)
 borsh_ingredients = {meat: 150, cabbage: 100, potato: 120, water: 200}
 borsh = HotDish("Борщ", borsh_ingredients, base_price=50, spicy_level=1)
 
-          
-
-                  
-
-
-                
-    
-        
+cake_indgredients = {sugar: 200, milk: 300}
